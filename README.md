@@ -5,5 +5,5 @@ This is a project in which I used the Scrapy web scraping framework to parse sit
 For this project to work, you should download the latest version of Python (3.11).
 The project was completely written in the PyCharm environment.
 ## Launch
-To launch the project, you should use the terminal to go to the quotetutorial directory and register the scrapy crawl test -o items command.json
+To launch the project, you should use the terminal to go to the `quotetutorial` directory and write this command `scrapy crawl test -o items.json`
 After executing the command, a json file will be created with the result of parsing the site.
